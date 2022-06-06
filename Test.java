@@ -6,7 +6,7 @@ public class Test{
 
         Other four = new Other();
         // System.out.println(four);
-        String name = "Joe";
+        String name = "Bob";
         four.guestGreeting(name);
         System.out.println(four.guestGreeting(name));
     } 
