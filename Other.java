@@ -12,4 +12,10 @@ public class Other {
         // return "hello" + name ;
     }
 
+    // new_feature branch 
+    // add another method no params - overload 'guestGreeting'
+    public void guestGreeting() {
+        System.out.println("hello my friend!");
+    }
+
 }
