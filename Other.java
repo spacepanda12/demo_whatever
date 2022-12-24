@@ -15,7 +15,7 @@ public class Other {
     // new_feature branch 
     // add another method no params - overload 'guestGreeting'
     public void guestGreeting() {
-        System.out.println("hello my friend!");
+        System.out.println("hello friend!");
     }
 
 }
